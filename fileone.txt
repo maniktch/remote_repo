@@ -1,5 +1,9 @@
 first fil
 modified file for changes to cjee
 Modified file
+<<<<<<< Updated upstream
 check the changes in file
 CHANGES IN
+=======
+check the changes in ficchchchche
+>>>>>>> Stashed changes
